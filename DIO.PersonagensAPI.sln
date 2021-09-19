@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.PersonagensAPI", "DIO.PersonagensAPI\DIO.PersonagensAPI.csproj", "{2E92BB2C-AFD9-48B0-9B44-E61796E2DFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.PersonagensAPI.Web", "DIO.PersonagensAPI.Web\DIO.PersonagensAPI.Web.csproj", "{BE7ADF6D-B260-46C2-B21D-E87CD0E4EE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E92BB2C-AFD9-48B0-9B44-E61796E2DFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E92BB2C-AFD9-48B0-9B44-E61796E2DFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E92BB2C-AFD9-48B0-9B44-E61796E2DFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E92BB2C-AFD9-48B0-9B44-E61796E2DFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7ADF6D-B260-46C2-B21D-E87CD0E4EE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7ADF6D-B260-46C2-B21D-E87CD0E4EE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7ADF6D-B260-46C2-B21D-E87CD0E4EE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7ADF6D-B260-46C2-B21D-E87CD0E4EE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {265E92E1-77DF-4BCC-80F7-327ECEDDBF87}
+	EndGlobalSection
+EndGlobal
